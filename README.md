@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **hyeonniii/hyeonniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm jihyeon</h1>
-<h3 align="center">master's degree major in Statistics</h3>
+<h3 align="center">Master's degree, major in Statistics</h3>
 
 - 🔭 I’m currently working on **Research Institute of Applied Statistics, Sungkyunkwan Univ.(SKKU).**
 
