@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm jihyeon</h1>
+<h3 align="center">master's degree major in Statistics</h3>
+
+- 🔭 I’m currently working on **Research Institute of Applied Statistics, Sungkyunkwan Univ.(SKKU).**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/hyeonniiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyeonniiiii" height="30" width="40" /></a>
+</p>
